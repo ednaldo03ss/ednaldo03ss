@@ -3,7 +3,7 @@
 - 🌱 Atualmente, estou aprendendo mais sobre desenvolvimento web e SEO.  
 - 💞️ Estou buscando colaborar em projetos open-source e iniciativas educacionais.  
 - 📫 Você pode me contatar por aqui ou visitar meu site: [Biblioteca do Resumo](https://bibliotecadoresumo.online/).  
-- 😄 Pronomes: Ele/Dele (ou personalize como preferir).  
+- 😄 Pronomes: Ele/Dele.  
 - ⚡ Curiosidade: Adoro descobrir novas formas de organizar informações úteis!  
 
 ---
